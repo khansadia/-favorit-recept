@@ -1,0 +1,22 @@
+.ingredients {
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: inline;
+    
+  }
+  .ingred {
+    background-color: rgb(128, 0, 49);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .step {
+    background-color: rgb(107, 128, 0);
+    outline-color: blueviolet;
+    padding: 10px;
+    border: 15cqi;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }

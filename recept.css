@@ -1,0 +1,48 @@
+h1
+{text-align: center;
+    color: green
+}
+header{
+    padding: 25px;
+    margin: 35pt;
+   background-image: -moz-linear-gradient("biryani.jpg");
+    
+}
+section{
+    margin 15px;
+    padding-inline-start: 5px;
+    border-top: 14px;
+    border-bottom: 8px;
+    box-shadow: 25cap;
+    border-width: 12px;
+    border-color: orange;
+}
+main {
+
+    border-bottom: 8px;
+    border-width: 12px;
+    border-color: red;
+}
+body{
+    border-style: dotted;
+    border=10px;
+    padding 15 px;
+     background-image: url(C:\Users\Ahmed Hussain\Desktop\projects-lexicon\favorit-recept\biryani.jpg);
+	background-image: url("https://slidesgo.com/theme/about-me-my-favorite-food");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+h3{
+    background-color: blueviolet;
+}
+.fav {
+    background-color: rgb(128, 0, 49);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  footer {
+     text-align: center; color: rgb(255, 0, 76);
+  }
